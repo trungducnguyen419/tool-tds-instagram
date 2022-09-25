@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Tool TDS Instagram\Tool TDS Instagram\bin\Debug\Tool TDS Instagram.exe.config
+C:\Users\Administrator\source\repos\Tool TDS Instagram\Tool TDS Instagram\bin\Debug\Tool TDS Instagram.exe
+C:\Users\Administrator\source\repos\Tool TDS Instagram\Tool TDS Instagram\bin\Debug\Tool TDS Instagram.pdb
+C:\Users\Administrator\source\repos\Tool TDS Instagram\Tool TDS Instagram\obj\Debug\Tool TDS Instagram.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Tool TDS Instagram\Tool TDS Instagram\obj\Debug\Tool TDS Instagram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Tool TDS Instagram\Tool TDS Instagram\obj\Debug\Tool TDS Instagram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Tool TDS Instagram\Tool TDS Instagram\obj\Debug\Tool TDS Instagram.exe
+C:\Users\Administrator\source\repos\Tool TDS Instagram\Tool TDS Instagram\obj\Debug\Tool TDS Instagram.pdb
